@@ -750,7 +750,8 @@ contact.html
 ![Screenshot 2024-04-23 141540](https://github.com/praveen2p/softweb/assets/151658061/c110b70c-287d-48a4-8054-3246e0e8fdae)
 ![Screenshot 2024-04-23 141613](https://github.com/praveen2p/softweb/assets/151658061/9a4dab0b-d824-4ceb-9f52-1ecfb8b2ffd7)
 ![Screenshot 2024-04-23 141701](https://github.com/praveen2p/softweb/assets/151658061/e8e9f229-d4c1-412c-b3d2-e46cab087265)
-![Screenshot 2024-04-23 141725](https://github.com/praveen2p/softweb/assets/151658061/5996c28c-f536-4122-bf16-fd5402ee1b5e)
+![Screenshot 2024-04-23 142919](https://github.com/praveen2p/softweb/assets/151658061/0f845181-8bee-4339-a6d5-7fb4cd7f4c1e)
+
 
 
 
